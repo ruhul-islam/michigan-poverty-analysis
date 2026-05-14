@@ -90,4 +90,4 @@ michigan-poverty-analysis/
 
 - **Tableau Public:** [ruhul.islam](https://public.tableau.com/app/profile/ruhul.islam/vizzes)
 - **GitHub:** [github.com/ruhul-islam](https://github.com/ruhul-islam)
-- **LinkedIn:** linkedin.com/in/ruhulislam
+- **LinkedIn:** [linkedin.com/in/ruhulislam](https://linkedin.com/in/ruhulislam)
